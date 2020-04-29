@@ -77,8 +77,8 @@
             // 
             // toolStripTextBox1
             // 
-            this.toolStripTextBox1.Name = "toolStripTextBox1";
             resources.ApplyResources(this.toolStripTextBox1, "toolStripTextBox1");
+            this.toolStripTextBox1.Name = "toolStripTextBox1";
             this.toolStripTextBox1.KeyUp += new System.Windows.Forms.KeyEventHandler(this.toolStripTextBox1_KeyUp);
             this.toolStripTextBox1.Click += new System.EventHandler(this.toolStripTextBox1_Click);
             // 
